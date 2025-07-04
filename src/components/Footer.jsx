@@ -1,5 +1,5 @@
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import LeetCodeIcon from "./LeetCodeIcon";
+import LeetCodeIcon from "../components/LeetCodeIcon";
 import { Link } from "react-scroll";
 
 const Footer = () => {
