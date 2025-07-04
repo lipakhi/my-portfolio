@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio website! This project showcases my sk
 
 ## 🌐 Live Demo
 
-👉 [Visit the Live Portfolio]
+👉 [Visit the Live Portfolio] (https://lipakhi-portfolio.vercel.app/)
 
 
 ## 🎯 Features
