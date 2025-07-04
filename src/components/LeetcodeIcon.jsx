@@ -1,5 +1,5 @@
-// src/components/LeetCodeIcon.jsx
-const LeetCodeIcon = ({ size = 24, className = '' }) => {
+
+const LeetcodeIcon = ({ size = 24, className = '' }) => {
   return (
     <svg
       className={`fill-current ${className}`}
@@ -16,4 +16,4 @@ const LeetCodeIcon = ({ size = 24, className = '' }) => {
   );
 };
 
-export default LeetCodeIcon;
+export default LeetcodeIcon;

@@ -2,7 +2,7 @@ import { useTheme } from "../context/ThemeContext";
 import { useEffect, useState } from "react";
 import { Typewriter } from "react-simple-typewriter";
 import { FaGithub, FaLinkedin, FaDownload } from "react-icons/fa";
-import LeetCodeIcon from "../components/LeetCodeIcon";
+import LeetCodeIcon from "../components/LeetcodeIcon";
 
 const Home = () => {
   const { theme, toggleTheme } = useTheme();
@@ -116,7 +116,7 @@ const Home = () => {
             rel="noreferrer"
             aria-label="LeetCode"
           >
-            <LeetCodeIcon className="hover:text-accentSecLight transform hover:-translate-y-1 transition" />
+            <LeetcodeIcon className="hover:text-accentSecLight transform hover:-translate-y-1 transition" />
           </a>
         </div>
 

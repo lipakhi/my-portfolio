@@ -1,5 +1,5 @@
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import LeetCodeIcon from "../components/LeetCodeIcon";
+import LeetcodeIcon from "./LeetcodeIcon";
 import { Link } from "react-scroll";
 
 const Footer = () => {
@@ -18,7 +18,7 @@ const Footer = () => {
     },
     {
       name: "LeetCode",
-      icon: <LeetCodeIcon className="w-5 h-5" />,
+      icon: <LeetcodeIcon className="w-5 h-5" />,
       link: "https://leetcode.com/lipakhi_tripathy",
     },
   ];
