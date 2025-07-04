@@ -2,7 +2,7 @@ import { useTheme } from "../context/ThemeContext";
 import { useEffect, useState } from "react";
 import { Typewriter } from "react-simple-typewriter";
 import { FaGithub, FaLinkedin, FaDownload } from "react-icons/fa";
-import LeetCodeIcon from "../components/LeetcodeIcon";
+import LeetcodeIcon from "../components/LeetcodeIcon";
 
 const Home = () => {
   const { theme, toggleTheme } = useTheme();
