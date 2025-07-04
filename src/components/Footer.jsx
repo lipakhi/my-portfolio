@@ -25,7 +25,7 @@ const Footer = () => {
 
   return (
     <footer className="bg-lightBg dark:bg-darkBg text-lightSubText dark:text-darkSubText border-t border-accentSecLight/30 dark:border-accentSecDark/30 py-10 px-4 transition-colors duration-300">
-      <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-3 gap-10 text-sm">
+      <div className="max-w-6xl  mx-auto grid grid-cols-1 sm:grid-cols-3 gap-10 text-sm">
         
         {/* Menu */}
         <div>
